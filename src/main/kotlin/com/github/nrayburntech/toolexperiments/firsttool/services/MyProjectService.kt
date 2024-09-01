@@ -1,4 +1,4 @@
-package com.github.nrayburntech.toolexperiments.services
+package com.github.nrayburntech.toolexperiments.firsttool.services
 
 import com.github.nrayburntech.toolexperiments.MyBundle
 import com.intellij.openapi.components.Service

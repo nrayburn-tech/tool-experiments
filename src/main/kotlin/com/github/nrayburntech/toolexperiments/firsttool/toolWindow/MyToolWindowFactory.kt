@@ -1,7 +1,7 @@
-package com.github.nrayburntech.toolexperiments.toolWindow
+package com.github.nrayburntech.toolexperiments.firsttool.toolWindow
 
 import com.github.nrayburntech.toolexperiments.MyBundle
-import com.github.nrayburntech.toolexperiments.services.MyProjectService
+import com.github.nrayburntech.toolexperiments.firsttool.services.MyProjectService
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project

@@ -1,4 +1,4 @@
-package com.github.nrayburntech.toolexperiments.listeners
+package com.github.nrayburntech.toolexperiments.firsttool.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger

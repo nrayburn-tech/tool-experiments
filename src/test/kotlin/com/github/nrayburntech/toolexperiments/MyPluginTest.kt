@@ -1,6 +1,6 @@
 package com.github.nrayburntech.toolexperiments
 
-import com.github.nrayburntech.toolexperiments.services.MyProjectService
+import com.github.nrayburntech.toolexperiments.firsttool.services.MyProjectService
 import com.intellij.ide.highlighter.XmlFileType
 import com.intellij.openapi.components.service
 import com.intellij.psi.xml.XmlFile
