@@ -5,6 +5,9 @@
   <vendor>nrayburn-tech</vendor>
 
   <depends>com.intellij.modules.platform</depends>
+  <depends>com.intellij.java</depends>
+  <!-- TODO: Long term, would be nice to work with maven OR gradle and not require both. -->
+  <depends>org.jetbrains.idea.maven</depends>
 
   <resource-bundle>messages.MyBundle</resource-bundle>
 
